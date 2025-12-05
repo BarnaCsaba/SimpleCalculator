@@ -17,15 +17,13 @@
     border-radius: 5px;
     margin-left: -10px;
     color: white
-    justify-content:text-end;
-    display:flex
 }
 .buttons{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
 
-    
+
 
 }
 
